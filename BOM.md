@@ -14,10 +14,9 @@
 | --- | --- | --- | --- | --- | --- |
 | [Pimoroni Trackball Breakout](https://shop.pimoroni.com/en-us/products/trackball-breakout?variant=27672765038675) | The actual movement of the joystick, and it makes it able to click | 1 | $18.00 | $18.00 | [Pimironi](https://shop.pimoroni.com/en-us/products/trackball-breakout?variant=27672765038675) |
 | [WaveShare RP2040-Zero MCU Board Mini Version Based on Pi Pico](https://electropeak.com/waveshare-rp2040-zero-mcu-board-mini-version-based-on-pi-pico?srsltid=AU7gw4VTqLStBf4FxMin1N0I1ds9V98Jf70Qa_-woEzfkIkJwRY0hmleQ4o) | The brain of the build | 1 | $4.75 | $4.75 | [Electropeak](https://electropeak.com/waveshare-rp2040-zero-mcu-board-mini-version-based-on-pi-pico?srsltid=AU7gw4VTqLStBf4FxMin1N0I1ds9V98Jf70Qa_-woEzfkIkJwRY0hmleQ4o) |
-| [400 Tie Point Interlocking Solderless Breadboard](https://www.dfrobot.com/product-371.html?srsltid=AU7gw4XHc4YtloK79HJWmJHwkpL2PNk1YJbrzMi9uvwMAZz96iiVEM-frOY) | To connect everything | 1 | $2.90 | $2.90 | [DFRobot](https://www.dfrobot.com/product-371.html?srsltid=AU7gw4XHc4YtloK79HJWmJHwkpL2PNk1YJbrzMi9uvwMAZz96iiVEM-frOY) |
 | [70 Piece Jumper Wire Kit for Breadboarding, Assorted Lengths and Colors in Plastic Storage Case](https://www.sciencepurchase.com/products/70-piece-jumper-wire-kit-for-breadboarding-assorted-lengths-and-colors-in-plastic-storage-case?variant=47689881190637&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4UZ0Xvv9IWttVyT-yo0xbSnksHcULHL3i-i8wYh-jeVS2dFlT9QveA) | to test the connections to make them work | 1 | $2.99 | $2.99 | [Science Purchase](https://www.sciencepurchase.com/products/70-piece-jumper-wire-kit-for-breadboarding-assorted-lengths-and-colors-in-plastic-storage-case?variant=47689881190637&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AU7gw4UZ0Xvv9IWttVyT-yo0xbSnksHcULHL3i-i8wYh-jeVS2dFlT9QveA) |
-| **Parts subtotal** | — | — | — | **$28.64** | — |
+| **Parts subtotal** | — | — | — | **$25.74** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$28.64** | — |
+| **Total** | — | — | — | **$25.74** | — |
 
-$1.36 left of the tier's funding.
+$4.26 left of the tier's funding.
